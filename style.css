@@ -24,7 +24,7 @@ li{
 }
 
 a{
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 a:hover{
@@ -40,7 +40,7 @@ a:hover{
 
 #inscreva-se-btn:hover{
     background-color: rgb(132, 14, 201);
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 
@@ -83,7 +83,7 @@ form [type="submit"]{
     height: 50px;
     width: 50%;
     background-color: rgb(132, 14, 201);
-    color: white;
+    color: rgb(0, 0, 0);
     font-weight: bold;
 
 }
@@ -102,7 +102,7 @@ input{
 }
 
 aside h2 span{
-    color: white;
+    color: rgb(0, 0, 0);
 
 }
 span{
