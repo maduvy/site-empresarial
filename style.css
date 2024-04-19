@@ -107,8 +107,11 @@ aside h2 span{
 span{
     color: rgb(14, 132, 201);
 }
-
-    
+.ponto{
+    font-size: 26px;
+    line-height: 50px;
+    font-family: poppinslight;
+}
 
 
 
